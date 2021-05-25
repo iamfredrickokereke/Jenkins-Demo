@@ -1,4 +1,4 @@
-#Integrate Artifactory with Jenkins
+# Integrate Artifactory with Jenkins
 
 pre-requisites
 An Artifactory server Click here to setup
